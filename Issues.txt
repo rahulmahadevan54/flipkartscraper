@@ -1,0 +1,1 @@
+The only issue or problem in the code is that it stores the reviews in only one column in csv file,since i dont have much experience with panda and due to less time i was unable to correct this problem,hope you can understand and i assure to work upon my skills.
